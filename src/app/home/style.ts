@@ -27,7 +27,7 @@ export const styles = StyleSheet.create({
     tabs:{
         flexDirection:"row",
         padding: 16,
-        borderBottomColor: "#eee",
+        borderBottomColor: "black",
         borderBottomWidth: 1,
         gap: 16
     },
